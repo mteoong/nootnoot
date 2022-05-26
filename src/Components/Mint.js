@@ -571,7 +571,7 @@ const ABI = [
      "type":"function"
   }
 ];
-const ADDRESS = "0xb6d41C38F78dDb76C890b2D07977401f55151e95";
+const ADDRESS = "0x07e13c3d269B015fEE8e339B9B27F750C1690208";
 
 // const mintButton = document.getElementsByClassName('mint-button')[0];
 
